@@ -23,3 +23,7 @@
 4. If the web app offers RSS feeds , add your malicious code into the RSS.
 5. Fuzz for /soap api , some applications still running soap apis
 6. If the target web app allows for SSO integration, you can inject your malicious xml code in the SAML request/response
+
+## XXE OOB
+1. <a href="SOAP- Based Unauthenticated Out-of-Band XML External Entity (OOB-XXE) in a Help Desk Software">SOAP- Based Unauthenticated Out-of-Band XML External Entity (OOB-XXE) in a Help Desk Software</a>
+2. <a href="https://hackerone.com/reports/36450">Soap-based XXE vulnerability /soapserver/</a>
