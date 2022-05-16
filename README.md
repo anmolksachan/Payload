@@ -6,3 +6,6 @@
 
 ## Tiny XSS
 1. https://tinyxss.terjanq.me/
+
+## Server-Side input validation testing
+1. <a href=https://redtm.com/web-pentest/server-side-input-validation>Server-Side input validation testing</a>
