@@ -5,7 +5,7 @@
 2. "><img src=x onerror=window.location="http://google.com">
 
 ## Tiny XSS
-1. https://tinyxss.terjanq.me/
+1. <a href="https://tinyxss.terjanq.me/">Tiny XSS by @terjanq</a>
 
 ## Server-Side input validation testing
 1. <a href=https://redtm.com/web-pentest/server-side-input-validation>Server-Side input validation testing</a>
