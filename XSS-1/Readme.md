@@ -1,3 +1,5 @@
+Click on [RAW] for better understanding, i'm too lazy to allign everything.
+
 <script>
   document.write(window.location.href);
   document.write(window.location.hostname);
