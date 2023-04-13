@@ -28,3 +28,6 @@
 ## XXE OOB
 1. <a href="SOAP- Based Unauthenticated Out-of-Band XML External Entity (OOB-XXE) in a Help Desk Software">SOAP- Based Unauthenticated Out-of-Band XML External Entity (OOB-XXE) in a Help Desk Software</a>
 2. <a href="https://hackerone.com/reports/36450">Soap-based XXE vulnerability /soapserver/</a>
+
+## Resources
+1. https://github.com/xsuperbug/payloads/blob/master/XSS%20-2
