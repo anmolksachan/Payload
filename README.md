@@ -31,3 +31,4 @@
 
 ## Resources
 1. https://github.com/xsuperbug/payloads/blob/master/XSS%20-2
+2. https://www.blackhat.com/presentations/bh-usa-09/VELANAVA/BHUSA09-VelaNava-FavoriteXSS-SLIDES.pdf
